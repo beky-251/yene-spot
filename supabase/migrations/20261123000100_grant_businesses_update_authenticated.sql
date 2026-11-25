@@ -1,0 +1,1 @@
+GRANT UPDATE ON TABLE public.businesses TO authenticated;
